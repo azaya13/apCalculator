@@ -9,7 +9,11 @@ namespace apCalc
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// This program is an AP Calculator for the game Mabinogi.
+        /// 
+        /// It takes the skill ratings from the form and calculates
+        /// how much Ability Points (AP) are expended for each skill
+        /// category.
         /// </summary>
         [STAThread]
         static void Main()
